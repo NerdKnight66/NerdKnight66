@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NerdKnight66
-- 👀 I’m interested in Pyscript
+- 👀 I’m interested in Rust
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on you minding your own goddamn buissness
 - 📫 Reach me via carrier pidgeon
