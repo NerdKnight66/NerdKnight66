@@ -1,7 +1,7 @@
 # Build plans
 All prices in AUD
 
-## $2000 First PC Build Plan (Ryzen 7 5800X + RTX 3070)
+## $2000 First PC Build Plan (Ryzen 7 5800X + RTX 3060 Ti)
 [PCPartPicker Part List](https://au.pcpartpicker.com/list/bfjyQ6)
 
 | Type                 | Item                                                                                                                                                                                                            | Price                      |
