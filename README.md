@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NerdKnight66
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on you minding your own goddamn buissness
 - 📫 Reach me via carrier pidgeon
 
